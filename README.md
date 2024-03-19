@@ -8,7 +8,7 @@ This database Design project is from Introduction to Relational Databases (RDBMS
  * SQL Proficiency
  * Practical Application
 
--------------------------------------------------------------------------------Project details---------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------Project details-------------------------------------------------------------------------------------
 # Scenario
 In this scenario, you have recently been hired as a data engineer by a New York-based coffee shop chain looking to expand nationally by opening several franchise locations. They want to streamline operations and revamp their data infrastructure as part of their expansion process.
 
